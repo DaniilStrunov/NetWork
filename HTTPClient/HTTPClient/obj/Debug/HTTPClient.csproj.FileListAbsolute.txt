@@ -1,0 +1,3 @@
+D:\Projects\NetWork\HTTPClient\HTTPClient\bin\Debug\Project22.exe.config
+D:\Projects\NetWork\HTTPClient\HTTPClient\obj\Debug\Project22.exe
+D:\Projects\NetWork\HTTPClient\HTTPClient\obj\Debug\Project22.pdb

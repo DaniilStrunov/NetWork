@@ -1,0 +1,8 @@
+D:\Projects\Project22\Project22\bin\Debug\Project22.exe.config
+D:\Projects\Project22\Project22\obj\Debug\Project22.csprojResolveAssemblyReference.cache
+D:\Projects\Project22\Project22\bin\Debug\Project22.exe
+D:\Projects\Project22\Project22\bin\Debug\Project22.pdb
+D:\Projects\Project22\Project22\obj\Debug\Project22.exe
+D:\Projects\Project22\Project22\obj\Debug\Project22.pdb
+D:\Projects\Project22\Project22\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Project22\Project22\bin\Debug\Newtonsoft.Json.xml

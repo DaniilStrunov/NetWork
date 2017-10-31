@@ -1,0 +1,8 @@
+C:\Users\Daniil\Documents\Visual Studio 2015\Projects\HTTPServer\HTTPServer\bin\Release\HTTPServer.exe.config
+C:\Users\Daniil\Documents\Visual Studio 2015\Projects\HTTPServer\HTTPServer\bin\Release\HTTPServer.exe
+C:\Users\Daniil\Documents\Visual Studio 2015\Projects\HTTPServer\HTTPServer\bin\Release\HTTPServer.pdb
+C:\Users\Daniil\Documents\Visual Studio 2015\Projects\HTTPServer\HTTPServer\obj\Release\HTTPServer.exe
+C:\Users\Daniil\Documents\Visual Studio 2015\Projects\HTTPServer\HTTPServer\obj\Release\HTTPServer.pdb
+D:\Projects\NetWork\HTTPServer\HTTPServer\bin\Release\HTTPServer.exe.config
+D:\Projects\NetWork\HTTPServer\HTTPServer\obj\Release\HTTPServer.exe
+D:\Projects\NetWork\HTTPServer\HTTPServer\obj\Release\HTTPServer.pdb

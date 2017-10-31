@@ -1,0 +1,8 @@
+D:\Projects\NetWork\HTTPClient\Project22\bin\Release\Project22.exe.config
+D:\Projects\NetWork\HTTPClient\Project22\bin\Release\Project22.exe
+D:\Projects\NetWork\HTTPClient\Project22\bin\Release\Project22.pdb
+D:\Projects\NetWork\HTTPClient\Project22\bin\Release\Newtonsoft.Json.dll
+D:\Projects\NetWork\HTTPClient\Project22\bin\Release\Newtonsoft.Json.xml
+D:\Projects\NetWork\HTTPClient\Project22\obj\Release\HTTPClient.csprojResolveAssemblyReference.cache
+D:\Projects\NetWork\HTTPClient\Project22\obj\Release\Project22.exe
+D:\Projects\NetWork\HTTPClient\Project22\obj\Release\Project22.pdb
